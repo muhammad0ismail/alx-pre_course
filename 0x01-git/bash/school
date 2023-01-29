@@ -1,2 +1,2 @@
-ls
-cd/root
+#!/bin/bash
+ echo "The school is open!"
